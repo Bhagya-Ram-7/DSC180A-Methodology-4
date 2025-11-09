@@ -1,12 +1,12 @@
-**Name**: Bhagya Ram
+**Name**: Bhagya Ram //
 **UCSD Email**: bhram@ucsd.edu
 **Section**: A09
 **Mentor**: Stuart Geiger
 
-**1. What is the most interesting topic covered in your domain this quarter?**
+**1. What is the most interesting topic covered in your domain this quarter?** //
 I really enjoyed interviewing my peers to learn about their concerns surrounding gen AI. Creating a test to audit an algorithm was especially eye-opening: it helped me see how different models behave and how bias can appear in their outputs.
 
-**2. Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
+**2. Describe a potential investigation you would like to pursue for your Quarter 2 Project.** //
 I would like to study how AI applications are currently being used in the treatment of mental health. While they are being largely adopted to take over administrative tasks, I'm curious to understand if they might unintentionally utilize sensitive patient information (race, occupation, etc.) in ways that reinforce biases. 
 
 This topic really interests me, but I’d also be open to investigating similar concerns about AI in other fields.
