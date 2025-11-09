@@ -1,0 +1,11 @@
+title: DSC 180A Methodology 4
+email: bhram@ucsd.edu
+description: >- 
+  Jekyll site for DSC 180A Methodology 4.
+baseurl: "/DSC180A-Methodology-4" 
+url: "https://bhagya-ram-7.github.io" 
+theme: minima
+plugins:
+  - jekyll-feed
+
+markdown: kramdown
